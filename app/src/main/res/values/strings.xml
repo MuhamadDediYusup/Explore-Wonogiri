@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Explore Wonogiri</string>
+    <string name="nama">Muhamad Dedi Yusup</string>
+    <string name="email">muhamad_dediy@student.janabadra.ac.id</string>
+    <string name="detail">Identitas Saya</string>
+    <string name="nim">NIM</string>
+    <string name="nim_value">19330015</string>
+    <string name="fakultas_value">Teknik</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="prodi">Program Studi</string>
+    <string name="prodi_value">Informatika</string>
+    <string name="angkatan">Angkatan</string>
+    <string name="angkatan_val">2019</string>
+    <string name="about">Tentang Saya</string>
+    <string name="about_me_val">Saya adalah mahasiswa Informatika
+        Universitas Janabadra Yogyakarta, Sekarang sedang menjalani
+        perkuliahan di semester 5, saya senang belajar hal baru
+        mengenai teknologi.</string>
+</resources>

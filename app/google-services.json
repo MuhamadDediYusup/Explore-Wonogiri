@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94144158452",
+    "project_id": "explore-wonogiri",
+    "storage_bucket": "explore-wonogiri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94144158452:android:b772bd84fdbcd2e1be9ca1",
+        "android_client_info": {
+          "package_name": "com.ysp.explorewonogiri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94144158452-ppo1tvt3l9h21bpm506uajnqdm7rf4kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvVj2XM0-uNV6AQ1tryeZzCefH9MZUzC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94144158452-ppo1tvt3l9h21bpm506uajnqdm7rf4kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

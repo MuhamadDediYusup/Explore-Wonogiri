@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tv_judul_detail_artikel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="25dp"
+            android:gravity="center"
+            android:fontFamily="@font/poppins_semibold"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            tools:text="Bukit Cumbri" />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/img_container"
+            android:layout_width="match_parent"
+            android:layout_height="320dp"
+            app:cardCornerRadius="4dp"
+            android:elevation="10dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp">
+
+            <ImageView
+                android:id="@+id/iv_img_artikel"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:layout_marginBottom="-20dp"
+                android:src="@drawable/bukit" />
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/tv_content_artikel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginEnd="25dp"
+            android:fontFamily="@font/poppins_regular"
+            android:textSize="14sp"
+            android:layout_gravity="center_horizontal|center"
+            android:justificationMode="inter_word"
+            tools:text="Kepyar, Purwantoro, Ngudal, Pagerukir, Sampung, Kabupaten Wonogiri, Jawa Tengah 57695" />
+        />
+
+    </LinearLayout>
+</ScrollView>

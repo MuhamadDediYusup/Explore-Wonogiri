@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable-v24/baseline_person_outline_24.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable-v24/outline_article_24.xml" value="0.21574074074074073" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable-v24/outline_explore_24.xml" value="0.21574074074074073" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable-v24/outline_home_24.xml" value="0.21574074074074073" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable-v24/outline_navigation_24.xml" value="0.2169230769230769" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable-v24/outline_person_outline_24.xml" value="0.21574074074074073" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/avatar.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/bg_button2.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/bg_card_artikel.xml" value="0.2169230769230769" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/bg_card_utama.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/bg_cardview.xml" value="0.85" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/bg_icon.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/bg_icon_artikel.xml" value="0.2169230769230769" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/bg_icon_explore.xml" value="0.2169230769230769" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/bg_rounded_explore.xml" value="0.2064814814814815" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/bg_search_list.xml" value="0.1125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/bg_top.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/border_radius_top.xml" value="0.21574074074074073" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/bottom_background.xml" value="0.21574074074074073" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/card_main.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/edttext_bg.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/frame_1.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/ic_back.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/ic_berita.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/ic_explore.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/ic_kuliner.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/ic_maps.xml" value="0.21484375" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/ic_mic.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/ic_penginapan.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/ic_search.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/ic_share.xml" value="0.2037037037037037" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/ic_simpan.xml" value="0.2037037037037037" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/ic_wisata.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/pop_bg.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/rounded_bg.xml" value="0.21574074074074073" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/rounded_button.xml" value="0.21574074074074073" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/rounded_image.xml" value="0.21481481481481482" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/search_background.xml" value="0.2203125" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/drawable/search_bg.xml" value="0.21574074074074073" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/activity_artikel.xml" value="0.25" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/activity_detail.xml" value="0.2" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/activity_detail_artikel.xml" value="0.20416666666666666" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/activity_detail_cumbri.xml" value="0.20416666666666666" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/activity_detail_rekom.xml" value="0.20416666666666666" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/activity_explore.xml" value="0.1" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/activity_kuliner.xml" value="0.20416666666666666" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/activity_listdata.xml" value="0.20416666666666666" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/activity_wisata.xml" value="0.22" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/activity_wisata2.xml" value="0.20416666666666666" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/activity_zcumbri.xml" value="0.20416666666666666" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/item_artikel.xml" value="0.22" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/item_explore.xml" value="0.22" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/item_listdata.xml" value="0.22" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/item_recomended.xml" value="0.20416666666666666" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/item_wisata.xml" value="0.25" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/layout_banner.xml" value="0.20416666666666666" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/layout_kategori.xml" value="0.20416666666666666" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/layout/splash_schreen.xml" value="0.25" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/ExploreWonogiri/app/src/main/res/menu/top_app_bar.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

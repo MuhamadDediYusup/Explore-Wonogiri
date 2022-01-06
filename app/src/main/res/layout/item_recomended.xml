@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="180dp"
+        android:layout_height="220dp"
+        app:cardCornerRadius="8dp"
+        android:elevation="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp">
+
+        <ImageView
+            android:id="@+id/img_recom"
+            android:clickable="true"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/goresanwaduk"
+            android:background="@color/white"
+            android:scaleType="centerCrop"
+            tools:src="@tools:sample/avatars"
+            />
+
+        <TextView
+            android:id="@+id/tv_recom"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/poppins_bold"
+            tools:text="Nama Wisata"
+            android:gravity="bottom"
+            android:textColor="@color/white"
+            android:textSize="28sp" />
+
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
